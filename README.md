@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game using html e js...
+Snake Game using HTML e JS (Thanks to Alexandre Machado, MundoJS...)
